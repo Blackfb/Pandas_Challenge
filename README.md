@@ -8,7 +8,7 @@ I've landed a job as Lead Analyst for an independent gaming company. I've been a
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like us to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-My final report should include each of the following:
+My final report is include each of the following:
 
 ### Player Count
 
