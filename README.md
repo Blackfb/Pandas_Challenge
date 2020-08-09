@@ -1,6 +1,6 @@
-# Python Project, Pandas Library And The Jupyter Notebook
+# Python Project Heroes of Pymoli
 
-## Heroes of Pymoli
+## Using with Python Pandas Library And The Jupyter Notebook
 
 ![Fantasy](Images/Fantasy.png)
 
