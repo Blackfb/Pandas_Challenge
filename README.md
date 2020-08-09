@@ -1,10 +1,10 @@
-# Using Python, Pandas Library And The Jupyter Notebook
+# Python Project, Pandas Library And The Jupyter Notebook
 
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
-I've landed a job as Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+In this Project, I created a Python script for analyzing the data for their most recent fantasy game Heroes of Pymoli of independent gaming company.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like us to generate a report that breaks down the game's purchasing data into meaningful insights.
 
